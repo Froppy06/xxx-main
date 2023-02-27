@@ -1,0 +1,47 @@
+C:\Users\kaelt\OneDrive\Pulpit\RPG_project\RPG_project\bin\Debug\RPG_project.exe.config
+C:\Users\kaelt\OneDrive\Pulpit\RPG_project\RPG_project\bin\Debug\RPG_project.exe
+C:\Users\kaelt\OneDrive\Pulpit\RPG_project\RPG_project\bin\Debug\RPG_project.pdb
+C:\Users\kaelt\OneDrive\Pulpit\RPG_project\RPG_project\obj\Debug\RPG_project.csproj.AssemblyReference.cache
+C:\Users\kaelt\OneDrive\Pulpit\RPG_project\RPG_project\obj\Debug\RPG_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\kaelt\OneDrive\Pulpit\RPG_project\RPG_project\obj\Debug\RPG_project.csproj.CoreCompileInputs.cache
+C:\Users\kaelt\OneDrive\Pulpit\RPG_project\RPG_project\obj\Debug\RPG_project.exe
+C:\Users\kaelt\OneDrive\Pulpit\RPG_project\RPG_project\obj\Debug\RPG_project.pdb
+C:\Users\Nubi\Desktop\2Rok\10. Projec c#\RPG_project\RPG_project\bin\Debug\RPG_project.exe.config
+C:\Users\Nubi\Desktop\2Rok\10. Projec c#\RPG_project\RPG_project\bin\Debug\RPG_project.exe
+C:\Users\Nubi\Desktop\2Rok\10. Projec c#\RPG_project\RPG_project\bin\Debug\RPG_project.pdb
+C:\Users\Nubi\Desktop\2Rok\10. Projec c#\RPG_project\RPG_project\obj\Debug\RPG_project.csproj.AssemblyReference.cache
+C:\Users\Nubi\Desktop\2Rok\10. Projec c#\RPG_project\RPG_project\obj\Debug\RPG_project.csproj.CoreCompileInputs.cache
+C:\Users\Nubi\Desktop\2Rok\10. Projec c#\RPG_project\RPG_project\obj\Debug\RPG_project.exe
+C:\Users\Nubi\Desktop\2Rok\10. Projec c#\RPG_project\RPG_project\obj\Debug\RPG_project.pdb
+C:\Users\kaelt\OneDrive\Pulpit\2Rok\10. Projec c#\RPG_project\RPG_project\bin\Debug\RPG_project.exe.config
+C:\Users\kaelt\OneDrive\Pulpit\2Rok\10. Projec c#\RPG_project\RPG_project\bin\Debug\RPG_project.exe
+C:\Users\kaelt\OneDrive\Pulpit\2Rok\10. Projec c#\RPG_project\RPG_project\bin\Debug\RPG_project.pdb
+C:\Users\kaelt\OneDrive\Pulpit\2Rok\10. Projec c#\RPG_project\RPG_project\obj\Debug\RPG_project.csproj.AssemblyReference.cache
+C:\Users\kaelt\OneDrive\Pulpit\2Rok\10. Projec c#\RPG_project\RPG_project\obj\Debug\RPG_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\kaelt\OneDrive\Pulpit\2Rok\10. Projec c#\RPG_project\RPG_project\obj\Debug\RPG_project.csproj.CoreCompileInputs.cache
+C:\Users\kaelt\OneDrive\Pulpit\2Rok\10. Projec c#\RPG_project\RPG_project\obj\Debug\RPG_project.exe
+C:\Users\kaelt\OneDrive\Pulpit\2Rok\10. Projec c#\RPG_project\RPG_project\obj\Debug\RPG_project.pdb
+C:\Users\kasia.DESKTOP-UTL699T\Desktop\2Rok-main\2Rok-main\10. Projec c#\RPG_project\RPG_project\bin\Debug\RPG_project.exe.config
+C:\Users\kasia.DESKTOP-UTL699T\Desktop\2Rok-main\2Rok-main\10. Projec c#\RPG_project\RPG_project\bin\Debug\RPG_project.exe
+C:\Users\kasia.DESKTOP-UTL699T\Desktop\2Rok-main\2Rok-main\10. Projec c#\RPG_project\RPG_project\bin\Debug\RPG_project.pdb
+C:\Users\kasia.DESKTOP-UTL699T\Desktop\2Rok-main\2Rok-main\10. Projec c#\RPG_project\RPG_project\obj\Debug\RPG_project.csproj.AssemblyReference.cache
+C:\Users\kasia.DESKTOP-UTL699T\Desktop\2Rok-main\2Rok-main\10. Projec c#\RPG_project\RPG_project\obj\Debug\RPG_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\kasia.DESKTOP-UTL699T\Desktop\2Rok-main\2Rok-main\10. Projec c#\RPG_project\RPG_project\obj\Debug\RPG_project.csproj.CoreCompileInputs.cache
+C:\Users\kasia.DESKTOP-UTL699T\Desktop\2Rok-main\2Rok-main\10. Projec c#\RPG_project\RPG_project\obj\Debug\RPG_project.exe
+C:\Users\kasia.DESKTOP-UTL699T\Desktop\2Rok-main\2Rok-main\10. Projec c#\RPG_project\RPG_project\obj\Debug\RPG_project.pdb
+C:\Users\kasia.DESKTOP-UTL699T\Desktop\RPG_project\RPG_project\obj\Debug\RPG_project.csproj.AssemblyReference.cache
+C:\Users\kasia.DESKTOP-UTL699T\Desktop\RPG_project\RPG_project\obj\Debug\RPG_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\kasia.DESKTOP-UTL699T\Desktop\RPG_project\RPG_project\obj\Debug\RPG_project.csproj.CoreCompileInputs.cache
+C:\Users\kasia.DESKTOP-UTL699T\Desktop\RPG_project\RPG_project\obj\Debug\RPG_project.exe
+C:\Users\kasia.DESKTOP-UTL699T\Desktop\RPG_project\RPG_project\obj\Debug\RPG_project.pdb
+C:\Users\kasia.DESKTOP-UTL699T\Desktop\RPG_project\RPG_project\bin\Debug\RPG_project.exe.config
+C:\Users\kasia.DESKTOP-UTL699T\Desktop\RPG_project\RPG_project\bin\Debug\RPG_project.exe
+C:\Users\kasia.DESKTOP-UTL699T\Desktop\RPG_project\RPG_project\bin\Debug\RPG_project.pdb
+C:\Users\ula06\OneDrive\Desktop\xxx-main\RPG_project\RPG_project\bin\Debug\RPG_project.exe.config
+C:\Users\ula06\OneDrive\Desktop\xxx-main\RPG_project\RPG_project\bin\Debug\RPG_project.exe
+C:\Users\ula06\OneDrive\Desktop\xxx-main\RPG_project\RPG_project\bin\Debug\RPG_project.pdb
+C:\Users\ula06\OneDrive\Desktop\xxx-main\RPG_project\RPG_project\obj\Debug\RPG_project.csproj.AssemblyReference.cache
+C:\Users\ula06\OneDrive\Desktop\xxx-main\RPG_project\RPG_project\obj\Debug\RPG_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\ula06\OneDrive\Desktop\xxx-main\RPG_project\RPG_project\obj\Debug\RPG_project.csproj.CoreCompileInputs.cache
+C:\Users\ula06\OneDrive\Desktop\xxx-main\RPG_project\RPG_project\obj\Debug\RPG_project.exe
+C:\Users\ula06\OneDrive\Desktop\xxx-main\RPG_project\RPG_project\obj\Debug\RPG_project.pdb
